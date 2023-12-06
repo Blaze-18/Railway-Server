@@ -1,0 +1,1 @@
+web: gunicorn Anan.wsgi --log-file -
